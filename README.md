@@ -8,7 +8,7 @@ A sample Flutter Web Application for listing movie genres from the assets folder
 
 `flutter upgrade`
 
-2. If you haven't yet, add your Dart SDK to your PATH.
+2. If you haven't yet, add your **Dart SDK** to your **PATH**.
 
 `<path to our flutter directory>/bin/cache/dart-sdk/bin`
 
@@ -17,7 +17,7 @@ A sample Flutter Web Application for listing movie genres from the assets folder
 `flutter packages pub global activate webdev`
 `flutter packages upgrade`
 
-4. Finally add webdev to your PATH.
+4. Finally add webdev to your **PATH**.
 
 `<path to flutter directory>/.pub-cache/bin`
 
